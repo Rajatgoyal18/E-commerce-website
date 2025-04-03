@@ -2,9 +2,6 @@
 
 <div align="center">
   <br />
-  <a href="https://youtu.be/DLeAPn5-TIA" target="_blank">
-    <img src="./banner.png" alt="Project Banner">
-  </a>
   <br />
   <div>
     <img src="https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js" alt="Next.js" />
@@ -14,10 +11,6 @@
     <img src="https://img.shields.io/badge/-Zustand-000?style=for-the-badge" alt="Zustand" />
   </div>
   <h3 align="center">Build a Modern Ecommerce Platform</h3>
-  <div align="center">
-    Follow along with our detailed tutorial on 
-    <a href="https://youtu.be/YOUR_VIDEO_LINK" target="_blank"><b>YouTube</b></a>
-  </div>
   <br />
 </div>
 
@@ -32,9 +25,7 @@
 
 ## 🚀 Introduction
 
-In this video tutorial, you'll learn how to build a fully functional ecommerce platform using modern web technologies such as Next.js 15, Tailwind CSS v4, Stripe for payments, and Zustand for state management. This project focuses on building a sleek, responsive frontend with a secure payment flow—without using a backend database like Prisma, Postgres, or Neon.
-
-Watch the tutorial on [YouTube](https://youtu.be/YOUR_VIDEO_LINK).
+This project focuses on building a sleek, responsive frontend with a secure payment flow—without using a backend database like Prisma, Postgres, or Neon.
 
 ## ⚙️ Tech Stack
 
@@ -68,11 +59,3 @@ Watch the tutorial on [YouTube](https://youtu.be/YOUR_VIDEO_LINK).
 - [Git](https://git-scm.com/)
 - [Node.js](https://nodejs.org/en/)
 - [npm](https://www.npmjs.com/)
-
-### Cloning the Repository
-
-Run the following commands in your terminal:
-
-```bash
-git clone https://github.com/yourusername/your-ecommerce-repo.git
-cd your-ecommerce-repo
